@@ -3,6 +3,7 @@
 </h1>
 
 This is a simple personal blog based on gatsby blog-starter where I share my tech thoughts, projects, and articles.
+demo - https://elkhayati.me/
 
 
 
